@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="spinner_options">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+    <string name="app_name">SourceCodeRetriever</string>
+    <string name="url_hint">Enter a URL here</string>
+    <string name="button_text">GET PAGE SOURCE</string>
+    <string name="loading_text">Retrieving source code...</string>
+    <string name="check_connection">Please check your internet connection and try again</string>
+    <string name="no_results">no results</string>
+</resources>
